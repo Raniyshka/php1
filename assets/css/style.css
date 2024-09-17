@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'ElMessiri';
+}
+
+@font-face {
+    font-family: 'ElMessiri';
+    src: url(../fonts/ElMessiri.ttf);
+}
+
+h1{
+    font-size: 22px;
+    color: rgb(134, 166, 198);
+}
+
+body{
+    margin: 20px;
+}
+
+p span{
+    color: rgb(174, 123, 116);
+}
